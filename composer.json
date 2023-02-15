@@ -20,7 +20,8 @@
         "drupal/core-project-message": "^10.0",
         "drupal/core-recommended": "^10.0",
         "drupal/diff": "1.1",
-        "drupal/ds": "3.15"
+        "drupal/ds": "3.15",
+        "drupal/focal_point": "2.0.0-alpha2"
     },
     "conflict": {
         "drupal/drupal": "*"
